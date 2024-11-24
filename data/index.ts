@@ -107,33 +107,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Tedros delivered beyond our expectations. His expertise in full-stack development, combined with his commitment to quality, ensured that our project was completed on time and with exceptional results. I highly recommend him for any development work.",
+    name: "Mulugeta Teshome",
+    title: "CEO, HabeshaTech Solutions",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Tedros was an outstanding experience. He not only brought technical expertise to the table but also a strong understanding of our business needs. His ability to provide innovative solutions made a huge difference.",
+    name: "Lemlem Alemayehu",
+    title: "Manager, Abyssinia IT Services",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Tedros has an incredible eye for detail and a deep knowledge of web technologies. From the planning phase to the final deployment, he ensured every aspect of our project was handled with utmost care and precision.",
+    name: "Samuel Bekele",
+    title: "Director, AddisWeb Innovations",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Tedros was a pleasure. His professionalism, problem-solving skills, and ability to adapt to challenges made him a critical part of our team. The project was a success thanks to his contributions.",
+    name: "Betelhem Getachew",
+    title: "Founder, EthioDigital Hub",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Tedros's technical expertise and dedication to excellence were evident throughout our collaboration. He went above and beyond to ensure the project met our expectations and was delivered on schedule.",
+    name: "Yonas Abebe",
+    title: "CTO, ShegerTech Solutions",
   },
 ];
 
@@ -205,13 +205,21 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/Ted-AfroEm", // Replace with your GitHub link
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "/link.svg",
+    link: "https://www.linkedin.com/in/tedroskahsu",
   },
   {
     id: 3,
-    img: "/link.svg",
+    img: "/telegram.svg",
+    link: "https://t.me/tedros_kahsu",
+  },
+  {
+    id: 4,
+    img: "/wha.svg",
+    link: "https://wa.me/251974437960",
   },
 ];
